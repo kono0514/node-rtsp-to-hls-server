@@ -1,4 +1,4 @@
-ffmpeg_build/ffmpeg filter=lfs diff=lfs merge=lfs -text
-ffmpeg_build/ffprobe filter=lfs diff=lfs merge=lfs -text
-ffmpeg_build/ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
-ffmpeg_build/ffprobe.exe filter=lfs diff=lfs merge=lfs -text
+#ffmpeg_build/ffmpeg filter=lfs diff=lfs merge=lfs -text
+#ffmpeg_build/ffprobe filter=lfs diff=lfs merge=lfs -text
+#ffmpeg_build/ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
+#ffmpeg_build/ffprobe.exe filter=lfs diff=lfs merge=lfs -text
